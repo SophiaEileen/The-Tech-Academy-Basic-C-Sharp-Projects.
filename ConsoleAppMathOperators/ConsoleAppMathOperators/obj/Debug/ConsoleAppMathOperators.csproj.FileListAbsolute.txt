@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\bin\Debug\ConsoleAppMathOperators.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\bin\Debug\ConsoleAppMathOperators.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\bin\Debug\ConsoleAppMathOperators.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\obj\Debug\ConsoleAppMathOperators.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\obj\Debug\ConsoleAppMathOperators.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\obj\Debug\ConsoleAppMathOperators.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleAppMathOperators\ConsoleAppMathOperators\obj\Debug\ConsoleAppMathOperators.pdb
