@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\bin\Debug\Math_DataTypes.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\bin\Debug\Math_DataTypes.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\bin\Debug\Math_DataTypes.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\obj\Debug\Math_DataTypes.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\obj\Debug\Math_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\obj\Debug\Math_DataTypes.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Math_DataTypes\Math_DataTypes\obj\Debug\Math_DataTypes.pdb
