@@ -1,0 +1,7 @@
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\bin\Debug\Anonymous_Income_Comparrison.exe.config
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\bin\Debug\Anonymous_Income_Comparrison.exe
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\bin\Debug\Anonymous_Income_Comparrison.pdb
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\obj\Debug\Anonymous_Income_Comparrison.csprojAssemblyReference.cache
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\obj\Debug\Anonymous_Income_Comparrison.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\obj\Debug\Anonymous_Income_Comparrison.exe
+C:\Users\LENOVO USER\source\repos\Anonymous_Income_Comparrison\Anonymous_Income_Comparrison\obj\Debug\Anonymous_Income_Comparrison.pdb
