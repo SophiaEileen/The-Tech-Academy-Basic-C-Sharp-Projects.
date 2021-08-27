@@ -1,7 +1,0 @@
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe.config
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.pdb
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.AssemblyReference.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.pdb
