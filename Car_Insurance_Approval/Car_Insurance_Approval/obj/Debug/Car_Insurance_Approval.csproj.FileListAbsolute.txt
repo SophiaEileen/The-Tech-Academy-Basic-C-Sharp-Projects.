@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\Car_Insurance_Approval.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\Car_Insurance_Approval.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\Car_Insurance_Approval.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\Car_Insurance_Approval.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\Car_Insurance_Approval.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\Car_Insurance_Approval.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\Car_Insurance_Approval.pdb
