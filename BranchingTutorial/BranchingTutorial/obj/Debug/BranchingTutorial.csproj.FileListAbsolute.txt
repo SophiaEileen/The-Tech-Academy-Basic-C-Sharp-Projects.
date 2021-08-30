@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.pdb
