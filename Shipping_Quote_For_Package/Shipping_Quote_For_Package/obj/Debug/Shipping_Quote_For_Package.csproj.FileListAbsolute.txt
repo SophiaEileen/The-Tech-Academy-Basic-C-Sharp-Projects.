@@ -1,7 +1,0 @@
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\bin\Debug\Shipping_Quote_For_Package.exe.config
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\bin\Debug\Shipping_Quote_For_Package.exe
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\bin\Debug\Shipping_Quote_For_Package.pdb
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\obj\Debug\Shipping_Quote_For_Package.csproj.AssemblyReference.cache
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\obj\Debug\Shipping_Quote_For_Package.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\obj\Debug\Shipping_Quote_For_Package.exe
-C:\Users\Sophia\source\repos\Shipping_Quote_For_Package\Shipping_Quote_For_Package\obj\Debug\Shipping_Quote_For_Package.pdb
