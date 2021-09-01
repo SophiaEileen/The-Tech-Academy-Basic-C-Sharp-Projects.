@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\bin\Debug\ConsoleApp_6_Part_Assignment.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\bin\Debug\ConsoleApp_6_Part_Assignment.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\bin\Debug\ConsoleApp_6_Part_Assignment.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\obj\Debug\ConsoleApp_6_Part_Assignment.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\obj\Debug\ConsoleApp_6_Part_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\obj\Debug\ConsoleApp_6_Part_Assignment.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ConsoleApp_6_Part_Assignment\ConsoleApp_6_Part_Assignment\obj\Debug\ConsoleApp_6_Part_Assignment.pdb
