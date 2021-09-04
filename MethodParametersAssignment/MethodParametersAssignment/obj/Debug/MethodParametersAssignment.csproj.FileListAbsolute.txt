@@ -1,7 +1,0 @@
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\bin\Debug\MethodParametersAssignment.exe.config
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\bin\Debug\MethodParametersAssignment.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\bin\Debug\MethodParametersAssignment.pdb
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\obj\Debug\MethodParametersAssignment.csproj.AssemblyReference.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\obj\Debug\MethodParametersAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\obj\Debug\MethodParametersAssignment.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\MethodParametersAssignment\MethodParametersAssignment\obj\Debug\MethodParametersAssignment.pdb
