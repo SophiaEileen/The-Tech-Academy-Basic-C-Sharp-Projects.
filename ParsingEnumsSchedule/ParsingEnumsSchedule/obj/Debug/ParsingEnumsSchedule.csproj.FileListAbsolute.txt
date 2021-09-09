@@ -1,0 +1,7 @@
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\bin\Debug\ParsingEnumsSchedule.exe.config
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\bin\Debug\ParsingEnumsSchedule.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\bin\Debug\ParsingEnumsSchedule.pdb
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\obj\Debug\ParsingEnumsSchedule.csproj.AssemblyReference.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\obj\Debug\ParsingEnumsSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\obj\Debug\ParsingEnumsSchedule.exe
+C:\Users\Sophia\Desktop\Basic_C#_Programs\ParsingEnumsSchedule\ParsingEnumsSchedule\obj\Debug\ParsingEnumsSchedule.pdb
