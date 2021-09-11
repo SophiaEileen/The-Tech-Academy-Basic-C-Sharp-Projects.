@@ -1,7 +1,0 @@
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe.config
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.exe
-C:\Users\Sophia\Desktop\Basic_C#_Programs\TwentyOneGame\TwentyOneGame\bin\Debug\TwentyOneGame.pdb
