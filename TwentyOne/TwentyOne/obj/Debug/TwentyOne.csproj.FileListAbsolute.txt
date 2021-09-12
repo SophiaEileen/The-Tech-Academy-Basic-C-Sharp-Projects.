@@ -1,7 +1,0 @@
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
-C:\Users\LENOVO USER\Desktop\SophC#\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
